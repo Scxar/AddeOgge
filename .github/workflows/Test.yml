@@ -3,7 +3,9 @@ on:
   push:
     branches:
       -main
-
+      -oscarbranch
+      -addesbranch
+  
 jobs:
   build:
     runs-on: unbuntu-latest
