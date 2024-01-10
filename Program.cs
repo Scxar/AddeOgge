@@ -1,5 +1,13 @@
-WriteLine("Hello, World!");
+namespace AndreasOscar;
 
-WriteLine("Oscar skrev detta");
+public class Program
+{
+    public void messages()
+    {
+        WriteLine("Hello, World!");
 
-WriteLine("Hello, Oscar!");
+        WriteLine("Oscar skrev detta");
+
+        WriteLine("Hello, Oscar!");
+    }
+}
