@@ -1,9 +1,5 @@
+WriteLine("Hello, World!");
 
-Console.WriteLine("Hello, World!");
+WriteLine("Oscar skrev detta");
 
-Console.WriteLine("Oscar skrev detta");
-
-﻿Console.WriteLine("Hello, World!");
-
-Console.WriteLine("Hello, Oscar!");
-
+WriteLine("Hello, Oscar!");
