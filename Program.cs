@@ -14,7 +14,7 @@ public class Program
         int a = 5;
         int b = 2;
 
-        int expected = 7
+        int expected = 7;
 
         int result = a + b;
 
